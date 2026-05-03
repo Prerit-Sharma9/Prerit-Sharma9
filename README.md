@@ -118,12 +118,12 @@ open_to: New opportunities & collaborations
 
 ## 🚀 Featured Projects
 
-> ⚠️ Replace `REPO_NAME_1`, `REPO_NAME_2`, `REPO_NAME_3`, `REPO_NAME_4` below with your actual repo names from [your GitHub](https://github.com/Prerit-Sharma9?tab=repositories)
+
 
 <div align="center">
 
 [![ecom-backend](https://github-readme-stats.shion.dev/api/pin/?username=Prerit-Sharma9&repo=ecom-backend&theme=tokyonight&hide_border=true)](https://github.com/Prerit-Sharma9/ecom-backend)
-[![future-emissions-predicting](https://github-readme-stats.shion.dev/api/pin/?username=Prerit-Sharma9&repo=future-emissons-predicting&theme=tokyonight&hide_border=true)](https://github.com/Prerit-Sharma9/future-emissions-predicting)
+
 
 </div>
 
