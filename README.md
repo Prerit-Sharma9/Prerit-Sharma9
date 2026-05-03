@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Prerit!%20👋&fontSize=50&fontAlign=50&fontAlignY=38&desc=CS%20Undergrad%20%7C%20Builder%20%7C%20Problem%20Solver&descAlign=50&descAlignY=58&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hey,%20I'm%20Prerit!%20👋&fontSize=50&fontAlign=50&fontAlignY=38&desc=CS%20Undergrad%20%7C%20Software%20Developer%7C%20Problem%20Solver&descAlign=50&descAlignY=58&animation=fadeIn)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer+%F0%9F%9A%80;Machine+Learning+Enthusiast+%F0%9F%A4%96;DSA+%26+System+Design+Grinder+%F0%9F%92%AA;Always+Learning%2C+Always+Building+%F0%9F%8C%B1)](https://git.io/typing-svg)
 
