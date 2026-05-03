@@ -122,8 +122,8 @@ open_to: New opportunities & collaborations
 
 <div align="center">
 
-[![ecom-backend](https://github-readme-stats.shion.dev/api/pin/?username=Prerit-Sharma9&repo=REPO_NAME_1&theme=tokyonight&hide_border=true)](https://github.com/Prerit-Sharma9/ecom-backend)
-[![future-emissions-predicting](https://github-readme-stats.shion.dev/api/pin/?username=Prerit-Sharma9&repo=REPO_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/Prerit-Sharma9/future-emissions-predicting)
+[![ecom-backend](https://github-readme-stats.shion.dev/api/pin/?username=Prerit-Sharma9&repo=ecom-backend&theme=tokyonight&hide_border=true)](https://github.com/Prerit-Sharma9/ecom-backend)
+[![future-emissions-predicting](https://github-readme-stats.shion.dev/api/pin/?username=Prerit-Sharma9&repo=future-emissons-predicting&theme=tokyonight&hide_border=true)](https://github.com/Prerit-Sharma9/future-emissions-predicting)
 
 </div>
 
