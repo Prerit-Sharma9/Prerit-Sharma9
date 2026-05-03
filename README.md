@@ -122,11 +122,8 @@ open_to: New opportunities & collaborations
 
 <div align="center">
 
-[![Repo 1](https://github-readme-stats.shion.dev/api/pin/?username=Prerit-Sharma9&repo=REPO_NAME_1&theme=tokyonight&hide_border=true)](https://github.com/Prerit-Sharma9/REPO_NAME_1)
-[![Repo 2](https://github-readme-stats.shion.dev/api/pin/?username=Prerit-Sharma9&repo=REPO_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/Prerit-Sharma9/REPO_NAME_2)
-
-[![Repo 3](https://github-readme-stats.shion.dev/api/pin/?username=Prerit-Sharma9&repo=REPO_NAME_3&theme=tokyonight&hide_border=true)](https://github.com/Prerit-Sharma9/REPO_NAME_3)
-[![Repo 4](https://github-readme-stats.shion.dev/api/pin/?username=Prerit-Sharma9&repo=REPO_NAME_4&theme=tokyonight&hide_border=true)](https://github.com/Prerit-Sharma9/REPO_NAME_4)
+[![Repo 1](https://github-readme-stats.shion.dev/api/pin/?username=Prerit-Sharma9&repo=REPO_NAME_1&theme=tokyonight&hide_border=true)](https://github.com/Prerit-Sharma9/ecom-backend)
+[![Repo 2](https://github-readme-stats.shion.dev/api/pin/?username=Prerit-Sharma9&repo=REPO_NAME_2&theme=tokyonight&hide_border=true)](https://github.com/Prerit-Sharma9/future-emissions-predicting)
 
 </div>
 
